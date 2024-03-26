@@ -1,5 +1,4 @@
 
-
 ## OGHENEROBO ODOMERO REX Web Exercise
 
 **ITALICS AND BOLD**
@@ -11,7 +10,6 @@ I **will** complete these lessons!
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
-
 
 
 **HEADERS**
@@ -112,4 +110,4 @@ Basically, take the same guidance as above: don't be messy, but if you are, clea
 
 **SCREENSHOT OF MY TEXT EDITOR**
 
-<img width="1015" alt="Screenshot 2024-03-25 at 12 23 16" src="https://github.com/Rexblazy/index.md/assets/145708667/676398df-f32f-4a64-ae19-a9ea681f85a2">
+<img width="1020" alt="Screenshot" src="https://github.com/Rexblazy/index.md/assets/145708667/829161b4-ecd9-44ec-bf80-0b04f1d2575e">
