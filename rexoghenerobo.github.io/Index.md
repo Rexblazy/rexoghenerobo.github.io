@@ -12,7 +12,7 @@ I **will** complete these lessons!
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
 
-HEADERS:
+**HEADERS**
 
 # Header one
 ## Header two
@@ -27,15 +27,15 @@ Here's some words about the book _One Hundred Years..._.
 
 **LINK AND IMAGES**
 
-[Search for it.](https://www.google.com)
-[You're **really, really** going to want to see this.](https://www.dailykitten.com)
-#### The Latest News from [the BBC](https://www.bbc.com/news)
+[Search for it.](www.google.com)
+[You're **really, really** going to want to see this.](www.dailykitten.com)
+#### The Latest News from [the BBC](www.bbc.com/news)
 Do you want to [see something fun][a fun place]?
 
 Well, do I have [the website for you][another fun place]!
 
-[a fun place]:https://www.zombo.com
-[another fun place]:https://www.stumbleupon.com
+[a fun place]:www.zombo.com
+[another fun place]:www.stumbleupon.com
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 ![Black cat][black]
 
@@ -107,3 +107,7 @@ If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into the bowl.  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
+**SCREENSHOT OF MY TEXT EDITOR**
+
+<img width="1020" alt="Screenshot" src="https://github.com/Rexblazy/index.md/assets/145708667/829161b4-ecd9-44ec-bf80-0b04f1d2575e">
